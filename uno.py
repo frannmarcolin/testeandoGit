@@ -1,2 +1,2 @@
-saludo = "Holaaa"
-print(saludo)
+saludo = "Holaaa que tal"
+print(f"Che {saludo}")
