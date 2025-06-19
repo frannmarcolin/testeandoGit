@@ -12,3 +12,5 @@ suma = a + b
 mult = a * b
 div = a / b
 pot = a ** b
+resta = a - b
+
