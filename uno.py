@@ -2,4 +2,10 @@ saludo = "Holaaa que talKOOOOOOOO"
 print(f"Che {saludo}")
 
 if len(saludo)>3:
+    print('TRAAAAAA')
     print("TRA")
+
+a = 2
+b = 3
+suma = a + b
+mult = a * b
