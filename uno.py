@@ -10,3 +10,4 @@ b = 3
 suma = a + b
 mult = a * b
 div = a / b
+pot = a ** b
